@@ -1,0 +1,11 @@
+C:\Users\Dicta\source\repos\drugmanagment\drugmanagment\Shared\bin\Debug\net6.0\drugmanagment.Shared.deps.json
+C:\Users\Dicta\source\repos\drugmanagment\drugmanagment\Shared\bin\Debug\net6.0\drugmanagment.Shared.dll
+C:\Users\Dicta\source\repos\drugmanagment\drugmanagment\Shared\bin\Debug\net6.0\drugmanagment.Shared.pdb
+C:\Users\Dicta\source\repos\drugmanagment\drugmanagment\Shared\obj\Debug\net6.0\drugmanagment.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dicta\source\repos\drugmanagment\drugmanagment\Shared\obj\Debug\net6.0\drugmanagment.Shared.AssemblyInfoInputs.cache
+C:\Users\Dicta\source\repos\drugmanagment\drugmanagment\Shared\obj\Debug\net6.0\drugmanagment.Shared.AssemblyInfo.cs
+C:\Users\Dicta\source\repos\drugmanagment\drugmanagment\Shared\obj\Debug\net6.0\drugmanagment.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Dicta\source\repos\drugmanagment\drugmanagment\Shared\obj\Debug\net6.0\drugmanagment.Shared.dll
+C:\Users\Dicta\source\repos\drugmanagment\drugmanagment\Shared\obj\Debug\net6.0\refint\drugmanagment.Shared.dll
+C:\Users\Dicta\source\repos\drugmanagment\drugmanagment\Shared\obj\Debug\net6.0\drugmanagment.Shared.pdb
+C:\Users\Dicta\source\repos\drugmanagment\drugmanagment\Shared\obj\Debug\net6.0\ref\drugmanagment.Shared.dll

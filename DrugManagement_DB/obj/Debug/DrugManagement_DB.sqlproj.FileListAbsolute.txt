@@ -1,0 +1,6 @@
+C:\Users\Dicta\source\repos\drugmanagment\DrugManagement_DB\bin\Debug\DrugManagement_DB.dacpac
+C:\Users\Dicta\source\repos\drugmanagment\DrugManagement_DB\bin\Debug\DrugManagement_DB.dll
+C:\Users\Dicta\source\repos\drugmanagment\DrugManagement_DB\bin\Debug\DrugManagement_DB.pdb
+C:\Users\Dicta\source\repos\drugmanagment\DrugManagement_DB\obj\Debug\DrugManagement_DB.sqlproj.AssemblyReference.cache
+C:\Users\Dicta\source\repos\drugmanagment\DrugManagement_DB\obj\Debug\DrugManagement_DB.dll
+C:\Users\Dicta\source\repos\drugmanagment\DrugManagement_DB\obj\Debug\DrugManagement_DB.pdb

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\drugmanagment.Client.props" />
+</Project>
